@@ -1,0 +1,20 @@
+.yusha{
+    background-color: blueviolet;
+    color: black;
+
+}
+.borde{
+    background-color: azure;
+    border: 5px solid;
+    border-color: black;
+    border-radius: 10px;
+    border-top: 20px;
+    margin-top: auto;
+    padding: 20px;
+}
+.yush{
+    color: blanchedalmond;
+}
+.title{
+    text-align: center;
+}
